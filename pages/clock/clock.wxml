@@ -1,0 +1,3 @@
+ <view class="clock">
+ <canvas canvas-id="myCanvasClock"></canvas>
+ </view>
